@@ -1,0 +1,20 @@
+pre {
+  background-color: #f1f1f1;
+}
+
+pre code {
+  white-space: pre;
+  font-family: Consolas, "courier new";
+  color: crimson;
+  padding: 2px;
+  font-size: 105%;
+}
+
+.backendUrl {
+  font-family: Consolas, "courier new";
+  color: crimson;
+}
+
+h5 .errorMsg {
+  color: darkred;
+}
